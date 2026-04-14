@@ -2,7 +2,19 @@
 
 A full-stack e-commerce web application built using **React (Frontend)** and **Django REST Framework (Backend)** with **PostgreSQL** database.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](frontend/screenshots/home.png)
+
+### 🛒 Cart Page
+![Cart](frontend/screenshots/cart.png)
+
+### 💳 Checkout Page
+![Checkout](frontend/screenshots/checkout.png)
+
 ---
+
 
 ## ✨ Features
 
@@ -33,18 +45,7 @@ A full-stack e-commerce web application built using **React (Frontend)** and **D
 
 ---
 
-## 📸 Screenshots
 
-### 🏠 Home Page
-![Home](frontend/screenshots/home.png)
-
-### 🛒 Cart Page
-![Cart](frontend/screenshots/cart.png)
-
-### 💳 Checkout Page
-![Checkout](frontend/screenshots/checkout.png)
-
----
 
 ## 🖼️ Product Images (From Backend Media)
 
