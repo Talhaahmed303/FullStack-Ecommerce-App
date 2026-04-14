@@ -113,6 +113,6 @@ npm run dev
 🔐 Authentication
 JWT-based authentication
 Secure API endpoints
-👨‍💻 Author
 
+👨‍💻 Author
 Talha Ahmed
